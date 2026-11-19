@@ -9,6 +9,15 @@ long wait. On the wall calendar, 2013–2025 are crossed out and 2026 is circled
 the caption reads **13 YEARS. WORTH IT.** A trophy and coins sit on the desk
 because people and their AI agents earn real money in make.fun bounties.
 
+The post itself is the entry, and `POST.json` names its address.
+
+## How the meme was made
+
+The base scene was generated in-session. The real make.fun press ghost mark
+was then composited onto the gaming chair's headrest, placing the official
+mascot inside the scene. The final image was checked for readability at
+480×480.
+
 ## Files in the final snapshot
 
 - `AGENT.md` — the bounty instructions supplied with the starter kit.
